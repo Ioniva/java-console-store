@@ -27,5 +27,8 @@ $ mvn install
 ### 4. Run the application
 Finally, it only remains to execute the main method. This main is located in `./src/main/java/view/MainView.java`
 
+**Display sample result:**
+![Application main menu](/src/main/resources/assets/main-menu.png "LIMA console main menu")
+
 ## License
 LIMA is an open source project that is licensed under [GPL](https://opensource.org/licenses/GPL-2.0).
